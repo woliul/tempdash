@@ -23,7 +23,7 @@
   "build": {
     "appId": "com.woliul.tempdashboard",
     "productName": "Temperature Dashboard",
-    "icon": "./assets/tempalert.png",
+    "icon": "./assets/logo.png",
     "win": {
       "target": "nsis"
     },
